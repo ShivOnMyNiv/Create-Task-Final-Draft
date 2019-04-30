@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/* If you would like to download the game and Unity assets used, please go to https://github.com/ShivOnMyNiv/Create-Task-Final-Draft*/
+
 public class Player : MonoBehaviour {
 
     //Sets the speed of the character   
